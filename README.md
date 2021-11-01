@@ -21,7 +21,7 @@ Please explain its strategy.
 The task was regarded as a whole project designed to be used independently by a user who can start an auction and bid against the trading bot. 
 
 <p align="center">
-  <img src="https://github.com/cosmacatalin98/trading-bot/blob/main/trading_bot_gui.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/cosmacatalin98/trading-bot/blob/master/trading_bot_gui.png?raw=true"/>
 </p>
 
 The project was designed using the MVC design pattern where the Model represents the logic used by the trading bot, the View represents the GUI presented to the user and the Controller represents the link between the Model and the View.
