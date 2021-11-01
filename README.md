@@ -31,7 +31,7 @@ The project was designed using the MVC design pattern where the Model represents
 
 IDEA : IntelliJ IDEA
 
-Programming language : Java
+Programming language : Java 11
 
 Project build system : Maven
 
