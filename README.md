@@ -55,5 +55,8 @@ There are six ways of computing the bid :
 5. AveragePlusOneBid – Returns the average amount based on the adversary's bidding history plus 1 MU in an attempt to outbid them. It is used for the majority of the normal rounds.
 
 6. TotalBid – Returns the total amount of MU owned by the bot. It is used if all the above strategies return a higher number of money than the amount owned in the current round.  
+## Usage 
+Download the TradingBot.exe from the following link :
 
+https://drive.google.com/drive/folders/1v2g6OEtMS3RZPPn6DlRTGBL-qTI52XJO?usp=sharing
 
