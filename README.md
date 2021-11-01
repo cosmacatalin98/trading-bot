@@ -18,7 +18,7 @@ Please explain its strategy.
 
 ## Solution
 
-The task was regarded as a whole project designed to be used independently by a user who can start an auction and bid against the trading bot. 
+The task was regarded as a whole project designed to be used by a user who can start an auction and bid against the trading bot. 
 
 <p align="center">
   <img src="https://github.com/cosmacatalin98/trading-bot/blob/master/trading_bot_gui.png?raw=true"/>
